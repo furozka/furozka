@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furozka
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web development skills(Javascript) and C++
+- 🌱 I’m currently learning C++ and Javascript
 - 📫 How to reach me: furozka05@gmail.com
 
 <!---
