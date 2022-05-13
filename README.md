@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furozka
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Javascript
+- 🌱 I’m currently learning Javascript, React and Altiumm designer
 - 📫 How to reach me: furozka05@gmail.com
 
 <!---
