@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furozka
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m currently learning React, SQL, Node.js
 - 📫 How to reach me: furozka05@gmail.com
 
 <!---
